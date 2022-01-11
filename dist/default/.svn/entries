@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://github.com/prototypesRise/drone-pic18f25k44.git/dist/default
+https://github.com/prototypesRise/drone-pic18f25k44.git
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0b72b768-ef2a-b5b4-2038-ce57b7db7bff
+
+debug
+dir
+
+
+
+add
+
+production
+dir
+
+
+
+add
+

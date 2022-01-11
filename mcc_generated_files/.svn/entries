@@ -1,0 +1,273 @@
+10
+
+dir
+0
+https://github.com/prototypesRise/drone-pic18f25k44.git/mcc_generated_files
+https://github.com/prototypesRise/drone-pic18f25k44.git
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0b72b768-ef2a-b5b4-2038-ce57b7db7bff
+
+ccp1.c
+file
+
+
+
+add
+
+ccp1.h
+file
+
+
+
+add
+
+ccp2.c
+file
+
+
+
+add
+
+ccp2.h
+file
+
+
+
+add
+
+device_config.c
+file
+
+
+
+add
+
+device_config.h
+file
+
+
+
+add
+
+examples
+dir
+
+
+
+add
+
+i2c1_master.c
+file
+
+
+
+add
+
+i2c1_master.h
+file
+
+
+
+add
+
+interrupt_manager.c
+file
+
+
+
+add
+
+interrupt_manager.h
+file
+
+
+
+add
+
+mcc.c
+file
+
+
+
+add
+
+mcc.h
+file
+
+
+
+add
+
+pin_manager.c
+file
+
+
+
+add
+
+pin_manager.h
+file
+
+
+
+add
+
+pwm1.h
+file
+
+
+
+add
+
+pwm5.c
+file
+
+
+
+add
+
+pwm5.h
+file
+
+
+
+add
+
+pwm6.c
+file
+
+
+
+add
+
+pwm6.h
+file
+
+
+
+add
+
+pwm7.c
+file
+
+
+
+add
+
+pwm7.h
+file
+
+
+
+add
+
+pwm8.c
+file
+
+
+
+add
+
+pwm8.h
+file
+
+
+
+add
+
+spi1.c
+file
+
+
+
+add
+
+spi1.h
+file
+
+
+
+add
+
+tmr1.c
+file
+
+
+
+add
+
+tmr1.h
+file
+
+
+
+add
+
+tmr2.c
+file
+
+
+
+add
+
+tmr2.h
+file
+
+
+
+add
+
+tmr3.c
+file
+
+
+
+add
+
+tmr3.h
+file
+
+
+
+add
+
+tmr4.c
+file
+
+
+
+add
+
+tmr4.h
+file
+
+
+
+add
+
+tmr6.h
+file
+
+
+
+add
+

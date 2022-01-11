@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://github.com/prototypesRise/drone-pic18f25k44.git/dist/default/debug
+https://github.com/prototypesRise/drone-pic18f25k44.git
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0b72b768-ef2a-b5b4-2038-ce57b7db7bff
+
+Droner.X.debug.cmf
+file
+
+
+
+add
+
+Droner.X.debug.elf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Droner.X.debug.hxl
+file
+
+
+
+add
+
+Droner.X.debug.lst
+file
+
+
+
+add
+
+Droner.X.debug.map
+file
+
+
+
+add
+
+Droner.X.debug.mum
+file
+
+
+
+add
+
+Droner.X.debug.rlf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Droner.X.debug.sdb
+file
+
+
+
+add
+
+Droner.X.debug.sym
+file
+
+
+
+add
+
+memoryfile.xml
+file
+
+
+
+add
+

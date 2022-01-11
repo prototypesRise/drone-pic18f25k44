@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://github.com/prototypesRise/drone-pic18f25k44.git/dist/default/production
+https://github.com/prototypesRise/drone-pic18f25k44.git
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0b72b768-ef2a-b5b4-2038-ce57b7db7bff
+
+Droner.X.production.cmf
+file
+
+
+
+add
+
+Droner.X.production.elf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Droner.X.production.hex
+file
+
+
+
+add
+
+Droner.X.production.hxl
+file
+
+
+
+add
+
+Droner.X.production.lst
+file
+
+
+
+add
+
+Droner.X.production.map
+file
+
+
+
+add
+
+Droner.X.production.mum
+file
+
+
+
+add
+
+Droner.X.production.rlf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Droner.X.production.sdb
+file
+
+
+
+add
+
+Droner.X.production.sym
+file
+
+
+
+add
+
+memoryfile.xml
+file
+
+
+
+add
+

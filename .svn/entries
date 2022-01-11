@@ -1,0 +1,141 @@
+10
+
+dir
+1
+https://github.com/prototypesRise/drone-pic18f25k44.git
+https://github.com/prototypesRise/drone-pic18f25k44.git
+
+
+
+2021-12-19T03:56:27.000000Z
+1
+victor.s.prototypes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0b72b768-ef2a-b5b4-2038-ce57b7db7bff
+
+
+
+
+
+
+
+
+((conflict trunk dir update added added (version https://github.com/prototypesRise/drone-pic18f25k44.git 1 1 trunk dir) (version https://github.com/prototypesRise/drone-pic18f25k44.git 1 1 trunk dir)))
+
+ADXL345.c
+file
+0
+
+
+add
+
+ADXL345.h
+file
+0
+
+
+add
+
+Droner.mc3
+file
+0
+
+
+add
+
+Makefile
+file
+0
+
+
+add
+
+branches
+dir
+
+build
+dir
+
+
+
+add
+
+debug
+dir
+
+
+
+add
+
+dist
+dir
+
+
+
+add
+
+main.c
+file
+0
+
+
+add
+
+mcc_generated_files
+dir
+
+
+
+add
+
+nbproject
+dir
+
+
+
+add
+
+nrf24mod.c
+file
+0
+
+
+add
+
+nrf24mod.h
+file
+0
+
+
+add
+
+ov7670.c
+file
+0
+
+
+add
+
+ov7670.h
+file
+0
+
+
+add
+
+trunk
+dir
+
